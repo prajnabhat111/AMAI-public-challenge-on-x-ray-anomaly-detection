@@ -1,5 +1,5 @@
 # AMAI-public-challenge-on-x-ray-anomaly-detection
-X-ray anomaly detection
+X-ray anomaly detection https://www.kaggle.com/competitions/amia-public-challenge-2024/overview
 
 The problem at hand is object detection and classification. Images in the dataset
  can contain one or more thoracic abnormalities or nothing at all. We are required
