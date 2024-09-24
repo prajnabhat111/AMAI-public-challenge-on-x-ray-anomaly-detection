@@ -50,7 +50,7 @@ tion. The test accuracy was also seen to be 91.04% indicating the model was
  The figure shows the loss and accuracy curves plotted against epoch runs.
 
  
-  ![Classification Result](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/Images/Result-Classification.png?raw=True "Classification Result")
+  ![Classification Result](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/blob/main/Images/Result%20Classification.png?raw=True "Classification Result")
 
  #### Future Enhancements 
 
@@ -83,7 +83,7 @@ tion. The test accuracy was also seen to be 91.04% indicating the model was
  Proposal Network. This thus makes this combination very ideal for scenarios
  where accurate bounding box predictions and class labels matter.
 
- ![Object Detection Result](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/Images/Result-Object-Detection.png?raw=True "Object Detection Result")
+ ![Object Detection Result](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/blob/main/Images/Result%20Object%20Detection.png?raw=True "Object Detection Result")
 
   #### Results 
 
@@ -101,7 +101,7 @@ tion. The test accuracy was also seen to be 91.04% indicating the model was
  
  Figure 3 shows the loss curve plotted for epoch runs.
 
- ![Visualisation Image](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/Images/Visualisation-Image.png?raw=True "Visualisation Image")
+ ![Visualisation Image](https://github.com/prajnabhat111/AMAI-public-challenge-on-x-ray-anomaly-detection/blob/main/Images/Visualisation%20Image.png?raw=True "Visualisation Image")
 
  #### Future Enhancements 
 
